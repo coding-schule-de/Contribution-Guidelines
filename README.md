@@ -27,7 +27,7 @@ Reporte Bugs über den Issues Tab in Github. Der Report sollte folgendes haben:
 - Benutze "camelCase" für Funktionen, Variablen, types und anderes dieser Art
 - Benutze "PascalCase" für Klassen
 - Benutze "snake_case" für Dinge außerhalb des Codes (ex. customIDs bei Buttons)
-- Benutze Arrow Functions (ex. `const hello = () => {console.log("Hallo Welt!")}`)
+- Benutze Arrow Functions bei nicht "Haupt-Funktionen" (ex. `const hello = () => {console.log("Hallo Welt!")}`)
 - Mache keine unnützen Variablen/Importe
 - Versuche nur ' und nicht " zu benutzen
 - Benutze nicht 'Hallo ' + name sondern \`Hallo ${name}\`
