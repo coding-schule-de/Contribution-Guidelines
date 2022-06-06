@@ -35,8 +35,8 @@ Reporte Bugs über den Issues Tab in Github. Der Report sollte folgendes haben:
 ## Committen
 Bitte formattiere deine Commits folgendermaßen:
 - Bei einem Bug-fix/Cleanup:
-  <Passendes Emoji> fix(was gefixt wurde): Wie gefixt wurde
+  Passendes Emoji fix(was gefixt wurde): Wie gefixt wurde
 - Bei einem neuen Feature:
-  <Passendes Emoji> feat: Neues Feature
+  Passendes Emoji feat: Neues Feature
 
 Jetzt kannst du starten und deinen Teil zu Coding Schule beitragen!
