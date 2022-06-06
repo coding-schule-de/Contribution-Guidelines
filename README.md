@@ -24,6 +24,13 @@ Reporte Bugs über den Issues Tab in Github. Der Report sollte folgendes haben:
 - Linte deinen Code, bevor du pushst
 - Benutze einen 4-er Tab Space
 - Schau dir den vorhandenen Code an und versuche, in dem Style weiterzumachen. Das hilft anderen dabei, den Code besser zu verstehen!
+- Benutze "camelCase" für Funktionen, Variablen, types und anderes dieser Art
+- Benutze "PascalCase" für Klassen
+- Benutze "snake_case" für Dinge außerhalb des Codes (ex. customIDs bei Buttons)
+- Benutze Arrow Functions (ex. `const hello = () => {console.log("Hallo Welt!")}`)
+- Mache keine unnützen Variablen/Importe
+- Versuche nur ' und nicht " zu benutzen
+- Benutze nicht 'Hallo ' + name sondern \`Hallo ${name}\`
 
 ## Committen
 Bitte formattiere deine Commits folgendermaßen:
